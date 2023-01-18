@@ -1,0 +1,7 @@
+1;08-12-2022;meeting with Victor;
+2;09-12-2022;meeting with Alla;
+3;11-12-2022;meeting with Vika;
+4;08-12-2022;meeting with Victor;
+5;12-12-2022;meeting with Alla;
+6;08-12-2022;meeting with Victor;
+5;10-12-2022;meeting with Nikola;
